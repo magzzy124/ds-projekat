@@ -1,2 +1,46 @@
 .vs
+
+# PDF fajlovi (obično su veliki i ne treba da idu u git)
 *.pdf
+
+# Word dokumenti (obično su privremeni)
+*.docx
+*.doc
+
+# Excel fajlovi
+*.xlsx
+*.xls
+
+# PowerPoint
+*.pptx
+*.ppt
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Log files
+*.log
+
+# Archives
+*.tar
+*.gz
+
+# IDE files
+.vscode/
+.idea/
