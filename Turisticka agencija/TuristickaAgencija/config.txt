@@ -1,5 +1,5 @@
 Turistička Agencija "Sunce i More"
-Data Source=turisticka_agencija.db;Version=3;
+Data Source=agencija.db;Version=3;
 BackupInterval=24
 MaxReservations=1000
 Currency=RSD
